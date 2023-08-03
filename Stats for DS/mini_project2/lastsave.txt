@@ -1,0 +1,35 @@
+
+R version 4.2.2 (2022-10-31 ucrt) -- "Innocent and Trusting"
+Copyright (C) 2022 The R Foundation for Statistical Computing
+Platform: x86_64-w64-mingw32/x64 (64-bit)
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+Type 'license()' or 'licence()' for distribution details.
+
+  Natural language support but running in an English locale
+
+R is a collaborative project with many contributors.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
+
+> save.image("C:\\Users\\yxa210024\\Desktop\\Masters\\spring2023\\Stats for DS\\mini_project2\\project2")
+> local({fn<-choose.files(filters=Filters[c('R','txt','All'),],index=4)
++ file.show(fn,header=fn,title='')})
+> roadrace <- read.csv("roadrace.csv", na.strings = "*")
+Error in file(file, "rt") : cannot open the connection
+In addition: Warning message:
+In file(file, "rt") :
+  cannot open file 'roadrace.csv': No such file or directory
+> roadrace <- read.csv("C:\Users\yxa210024\Desktop\Masters\spring2023\Stats for DS\mini_project2\roadrace.csv", na.strings = "*")
+Error: '\U' used without hex digits in character string starting ""C:\U"
+> roadrace <- read.csv("C:\yxa210024\Desktop\Masters\spring2023\Stats for DS\mini_project2\roadrace.csv", na.strings = "*")
+Error: '\y' is an unrecognized escape in character string starting ""C:\y"
+> roadrace <- read.csv("Users\yxa210024\Desktop\Masters\spring2023\Stats for DS\mini_project2\roadrace.csv", na.strings = "*")
+Error: '\y' is an unrecognized escape in character string starting ""Users\y"
+> roadrace <- read.csv("C:\\Users\\yxa210024\\Desktop\\Masters\\spring2023\\Stats for DS\\mini_project2\\roadrace.csv", na.strings = "*")
+> 
