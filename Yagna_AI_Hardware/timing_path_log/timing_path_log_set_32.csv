@@ -1,0 +1,301 @@
+orig path,orig slack,orig cycles,exp path,exp slack,exp cycles,delta slack,start point,end point,source clk,destination clock,delta classification
+62625,0.0054,0,65187,0.0022,0,0.0032,c/unit_20/subblock/reg[63],d/branch/stream/reg_162[43],yclk,zclk,degraded
+72017,0.0061,0,47856,-0.0,0,0.0061,c/unit_12/subblock/reg[27],d/branch/stream/reg_184[45],mclk,yclk,degraded
+79010,0.0159,0,53247,0.0241,0,-0.0082,c/unit_13/subblock/reg[4],d/branch/stream/reg_188[48],yclk,mclk,improved
+27446,0.0111,0,37447,0.0053,0,0.0058,c/unit_17/subblock/reg[48],d/branch/stream/reg_102[8],mclk,mclk,degraded
+89178,0.012,0,89301,0.0163,0,-0.0043,c/unit_16/subblock/reg[38],d/branch/stream/reg_127[49],mclk,yclk,improved
+82001,0.0177,0,42684,0.0177,0,0.0,c/unit_17/subblock/reg[0],d/branch/stream/reg_116[17],yclk,mclk,no change
+88013,0.0051,0,72870,-0.0014,0,0.0065,c/unit_17/subblock/reg[0],d/branch/stream/reg_176[27],zclk,zclk,degraded
+93752,0.0044,0,76043,0.0044,0,0.0,c/unit_12/subblock/reg[60],d/branch/stream/reg_153[3],zclk,zclk,no change
+63159,0.0154,0,32123,0.0154,0,0.0,c/unit_20/subblock/reg[18],d/branch/stream/reg_149[60],mclk,mclk,no change
+61963,0.0044,0,91091,0.0067,0,-0.0023,c/unit_13/subblock/reg[12],d/branch/stream/reg_193[53],mclk,mclk,improved
+36894,0.0183,0,59340,0.028,0,-0.0097,c/unit_12/subblock/reg[52],d/branch/stream/reg_105[22],zclk,yclk,improved
+41967,0.0047,0,20326,0.0022,0,0.0025,c/unit_12/subblock/reg[44],d/branch/stream/reg_168[4],mclk,zclk,degraded
+59661,0.0074,0,84224,0.0161,0,-0.0087,c/unit_14/subblock/reg[30],d/branch/stream/reg_168[25],yclk,mclk,improved
+89831,0.0186,0,64951,0.0094,0,0.0092,c/unit_20/subblock/reg[7],d/branch/stream/reg_197[23],mclk,yclk,degraded
+38140,0.0123,0,76814,0.0123,0,0.0,c/unit_13/subblock/reg[28],d/branch/stream/reg_119[33],mclk,yclk,no change
+62305,0.0019,0,93945,-0.0015,0,0.0034,c/unit_19/subblock/reg[51],d/branch/stream/reg_138[15],yclk,zclk,degraded
+32107,0.0099,0,41710,0.0047,0,0.0052,c/unit_11/subblock/reg[21],d/branch/stream/reg_178[25],yclk,yclk,degraded
+39792,0.02,0,65341,0.0138,0,0.0062,c/unit_18/subblock/reg[40],d/branch/stream/reg_175[36],mclk,yclk,degraded
+57430,0.0151,0,65746,0.0057,0,0.0094,c/unit_13/subblock/reg[25],d/branch/stream/reg_119[42],zclk,zclk,degraded
+88210,0.0011,0,44417,0.0011,0,0.0,c/unit_20/subblock/reg[53],d/branch/stream/reg_126[1],zclk,zclk,no change
+28510,0.0158,0,88645,0.0183,0,-0.0025,c/unit_15/subblock/reg[23],d/branch/stream/reg_183[24],yclk,zclk,improved
+69444,0.0142,0,86185,0.005,0,0.0092,c/unit_18/subblock/reg[22],d/branch/stream/reg_147[13],yclk,yclk,degraded
+47783,0.018,0,94729,0.0229,0,-0.0049,c/unit_12/subblock/reg[6],d/branch/stream/reg_108[10],zclk,zclk,improved
+32230,0.0144,0,55722,0.0144,0,0.0,c/unit_11/subblock/reg[55],d/branch/stream/reg_120[16],zclk,mclk,no change
+29040,0.0059,0,31687,-0.0023,0,0.0082,c/unit_12/subblock/reg[60],d/branch/stream/reg_182[4],yclk,zclk,degraded
+64291,0.0163,0,27831,0.0104,0,0.0059,c/unit_13/subblock/reg[8],d/branch/stream/reg_187[59],zclk,mclk,degraded
+50605,0.0131,0,99515,0.0057,0,0.0074,c/unit_17/subblock/reg[48],d/branch/stream/reg_108[54],mclk,zclk,degraded
+51562,0.0058,0,30970,0.0091,0,-0.0033,c/unit_19/subblock/reg[57],d/branch/stream/reg_138[4],mclk,yclk,improved
+51053,0.0104,0,72526,0.0104,0,0.0,c/unit_19/subblock/reg[52],d/branch/stream/reg_169[36],yclk,zclk,no change
+42095,0.0035,0,29738,0.0086,0,-0.0051,c/unit_20/subblock/reg[11],d/branch/stream/reg_161[39],yclk,zclk,improved
+84633,0.0074,0,73673,0.0074,0,0.0,c/unit_12/subblock/reg[48],d/branch/stream/reg_129[39],mclk,zclk,no change
+41437,0.0012,0,97017,-0.0064,0,0.0076,c/unit_15/subblock/reg[25],d/branch/stream/reg_131[16],zclk,zclk,degraded
+36077,0.0079,0,96468,0.0114,0,-0.0035,c/unit_11/subblock/reg[29],d/branch/stream/reg_180[32],mclk,mclk,improved
+32497,0.0162,0,44710,0.0102,0,0.006,c/unit_12/subblock/reg[51],d/branch/stream/reg_189[45],zclk,zclk,degraded
+49838,0.006,0,88681,0.006,0,0.0,c/unit_19/subblock/reg[29],d/branch/stream/reg_149[60],mclk,mclk,no change
+49234,0.0111,0,32355,0.0183,0,-0.0072,c/unit_11/subblock/reg[23],d/branch/stream/reg_166[16],yclk,mclk,improved
+60496,0.002,0,79123,0.002,0,0.0,c/unit_11/subblock/reg[42],d/branch/stream/reg_174[56],yclk,zclk,no change
+44211,0.001,0,57815,-0.0044,0,0.0054,c/unit_16/subblock/reg[27],d/branch/stream/reg_199[1],yclk,mclk,degraded
+47257,0.0114,0,83576,0.0114,0,0.0,c/unit_14/subblock/reg[52],d/branch/stream/reg_133[44],zclk,yclk,no change
+29810,0.0046,0,32615,-0.003,0,0.0076,c/unit_19/subblock/reg[50],d/branch/stream/reg_133[58],zclk,yclk,degraded
+32931,0.0047,0,58810,0.0047,0,0.0,c/unit_16/subblock/reg[2],d/branch/stream/reg_131[41],zclk,yclk,no change
+99432,0.0024,0,25856,0.0084,0,-0.006,c/unit_13/subblock/reg[59],d/branch/stream/reg_115[22],yclk,zclk,improved
+33111,0.0197,0,30032,0.0221,0,-0.0024,c/unit_17/subblock/reg[35],d/branch/stream/reg_138[39],mclk,zclk,improved
+83712,0.0167,0,41888,0.0167,0,0.0,c/unit_18/subblock/reg[44],d/branch/stream/reg_125[46],yclk,zclk,no change
+45016,0.0164,0,25811,0.0164,0,0.0,c/unit_11/subblock/reg[13],d/branch/stream/reg_103[40],zclk,yclk,no change
+81085,0.0169,0,95681,0.0144,0,0.0025,c/unit_16/subblock/reg[22],d/branch/stream/reg_154[32],yclk,zclk,degraded
+37546,0.0177,0,31778,0.0177,0,0.0,c/unit_20/subblock/reg[20],d/branch/stream/reg_192[31],yclk,yclk,no change
+98380,0.0078,0,36377,0.0052,0,0.0026,c/unit_16/subblock/reg[5],d/branch/stream/reg_159[14],mclk,mclk,degraded
+37985,0.0085,0,26555,0.0096,0,-0.0011,c/unit_11/subblock/reg[48],d/branch/stream/reg_154[2],yclk,zclk,improved
+97006,0.013,0,64742,0.018,0,-0.005,c/unit_15/subblock/reg[37],d/branch/stream/reg_139[25],zclk,zclk,improved
+39005,0.0015,0,42233,0.0111,0,-0.0096,c/unit_14/subblock/reg[51],d/branch/stream/reg_199[3],zclk,yclk,improved
+86775,0.0059,0,46910,0.0059,0,0.0,c/unit_19/subblock/reg[42],d/branch/stream/reg_112[23],zclk,zclk,no change
+25916,0.0116,0,86890,0.0116,0,0.0,c/unit_20/subblock/reg[59],d/branch/stream/reg_170[21],mclk,yclk,no change
+37058,0.0029,0,47805,-0.0037,0,0.0066,c/unit_13/subblock/reg[1],d/branch/stream/reg_165[57],mclk,yclk,degraded
+37903,0.009,0,34618,0.0042,0,0.0048,c/unit_13/subblock/reg[13],d/branch/stream/reg_114[45],yclk,zclk,degraded
+35918,0.0096,0,68743,0.0096,0,0.0,c/unit_14/subblock/reg[30],d/branch/stream/reg_190[39],mclk,mclk,no change
+77707,0.0199,0,32321,0.0236,0,-0.0037,c/unit_18/subblock/reg[44],d/branch/stream/reg_181[14],zclk,mclk,improved
+77469,0.0159,0,94061,0.0127,0,0.0032,c/unit_14/subblock/reg[39],d/branch/stream/reg_181[6],mclk,zclk,degraded
+76787,0.0167,0,58763,0.0167,0,0.0,c/unit_11/subblock/reg[60],d/branch/stream/reg_144[34],zclk,mclk,no change
+84742,0.0088,0,74822,0.0088,0,0.0,c/unit_18/subblock/reg[48],d/branch/stream/reg_153[39],mclk,zclk,no change
+24975,0.0174,0,57366,0.0174,0,0.0,c/unit_12/subblock/reg[18],d/branch/stream/reg_167[38],yclk,zclk,no change
+46086,0.0082,0,75133,0.0012,0,0.007,c/unit_19/subblock/reg[37],d/branch/stream/reg_189[16],yclk,mclk,degraded
+37552,0.0145,0,81380,0.0074,0,0.0071,c/unit_14/subblock/reg[57],d/branch/stream/reg_126[35],zclk,yclk,degraded
+90950,0.0128,0,98665,0.0066,0,0.0062,c/unit_19/subblock/reg[51],d/branch/stream/reg_135[34],zclk,zclk,degraded
+96560,0.0053,0,44113,0.0118,0,-0.0065,c/unit_17/subblock/reg[34],d/branch/stream/reg_159[47],yclk,zclk,improved
+37529,0.0098,0,84544,0.0098,0,0.0,c/unit_18/subblock/reg[0],d/branch/stream/reg_131[54],zclk,mclk,no change
+38850,0.0165,0,31107,0.0153,0,0.0012,c/unit_17/subblock/reg[55],d/branch/stream/reg_182[31],mclk,zclk,degraded
+20354,0.0022,0,83005,-0.0015,0,0.0037,c/unit_17/subblock/reg[43],d/branch/stream/reg_199[51],mclk,mclk,degraded
+98272,0.0062,0,46995,-0.003,0,0.0092,c/unit_19/subblock/reg[21],d/branch/stream/reg_162[35],zclk,zclk,degraded
+25503,0.004,0,92266,0.004,0,0.0,c/unit_16/subblock/reg[9],d/branch/stream/reg_184[49],zclk,mclk,no change
+62425,0.0044,0,88745,0.0124,0,-0.008,c/unit_12/subblock/reg[2],d/branch/stream/reg_141[32],yclk,mclk,improved
+73488,0.0063,0,63460,-0.0026,0,0.0089,c/unit_14/subblock/reg[19],d/branch/stream/reg_178[52],mclk,zclk,degraded
+97684,0.0197,0,31008,0.0285,0,-0.0088,c/unit_12/subblock/reg[27],d/branch/stream/reg_128[59],zclk,yclk,improved
+98860,0.0057,0,37963,0.0104,0,-0.0047,c/unit_11/subblock/reg[14],d/branch/stream/reg_154[49],zclk,zclk,improved
+42683,0.0136,0,29077,0.0068,0,0.0068,c/unit_13/subblock/reg[30],d/branch/stream/reg_196[1],mclk,mclk,degraded
+72263,0.0084,0,41646,0.0021,0,0.0063,c/unit_16/subblock/reg[22],d/branch/stream/reg_145[25],zclk,zclk,degraded
+34448,0.0093,0,92049,0.0192,0,-0.0099,c/unit_19/subblock/reg[15],d/branch/stream/reg_133[26],yclk,zclk,improved
+27143,0.0175,0,82563,0.0268,0,-0.0093,c/unit_20/subblock/reg[24],d/branch/stream/reg_159[40],zclk,yclk,improved
+27650,0.0081,0,76751,0.0108,0,-0.0027,c/unit_12/subblock/reg[20],d/branch/stream/reg_127[45],yclk,yclk,improved
+76765,0.0035,0,88092,-0.0043,0,0.0078,c/unit_17/subblock/reg[16],d/branch/stream/reg_155[10],yclk,zclk,degraded
+74946,0.0091,0,77669,0.0091,0,0.0,c/unit_12/subblock/reg[36],d/branch/stream/reg_180[63],yclk,yclk,no change
+52099,0.0118,0,22752,0.0033,0,0.0085,c/unit_18/subblock/reg[9],d/branch/stream/reg_141[45],mclk,yclk,degraded
+40249,0.0088,0,20210,0.007,0,0.0018,c/unit_12/subblock/reg[32],d/branch/stream/reg_135[12],mclk,yclk,degraded
+58632,0.0016,0,30121,0.0039,0,-0.0023,c/unit_15/subblock/reg[4],d/branch/stream/reg_168[49],yclk,mclk,improved
+49829,0.0014,0,93062,0.0014,0,0.0,c/unit_18/subblock/reg[19],d/branch/stream/reg_138[10],yclk,zclk,no change
+32751,0.0044,0,32946,0.0109,0,-0.0065,c/unit_14/subblock/reg[53],d/branch/stream/reg_161[33],yclk,mclk,improved
+67666,0.0119,0,88031,0.0119,0,0.0,c/unit_13/subblock/reg[12],d/branch/stream/reg_134[55],yclk,yclk,no change
+65635,0.0116,0,81864,0.0116,0,0.0,c/unit_17/subblock/reg[19],d/branch/stream/reg_105[53],yclk,mclk,no change
+42573,0.0032,0,34477,0.0032,0,0.0,c/unit_16/subblock/reg[17],d/branch/stream/reg_104[61],mclk,zclk,no change
+53332,0.0067,0,48341,0.0021,0,0.0046,c/unit_13/subblock/reg[20],d/branch/stream/reg_145[31],yclk,yclk,degraded
+64048,0.0056,0,79083,0.0056,0,0.0,c/unit_12/subblock/reg[21],d/branch/stream/reg_189[2],yclk,zclk,no change
+48210,0.0047,0,52191,0.0065,0,-0.0018,c/unit_20/subblock/reg[1],d/branch/stream/reg_174[55],mclk,mclk,improved
+89624,0.0033,0,21861,0.0015,0,0.0018,c/unit_14/subblock/reg[10],d/branch/stream/reg_172[22],mclk,yclk,degraded
+72615,0.017,0,67316,0.016,0,0.001,c/unit_20/subblock/reg[37],d/branch/stream/reg_152[24],mclk,zclk,degraded
+31598,0.0027,0,61772,0.0027,0,0.0,c/unit_20/subblock/reg[4],d/branch/stream/reg_110[63],yclk,yclk,no change
+56478,0.0066,0,59398,0.0066,0,0.0,c/unit_17/subblock/reg[11],d/branch/stream/reg_158[39],mclk,zclk,no change
+54977,0.0136,0,31753,0.0136,0,0.0,c/unit_13/subblock/reg[2],d/branch/stream/reg_184[35],mclk,mclk,no change
+72174,0.008,0,26860,-0.0007,0,0.0087,c/unit_15/subblock/reg[24],d/branch/stream/reg_155[35],yclk,zclk,degraded
+44008,0.0101,0,78187,0.0101,0,0.0,c/unit_20/subblock/reg[35],d/branch/stream/reg_169[30],yclk,zclk,no change
+61147,0.0186,0,86593,0.0186,0,0.0,c/unit_17/subblock/reg[27],d/branch/stream/reg_162[62],yclk,zclk,no change
+85771,0.0126,0,27952,0.0064,0,0.0062,c/unit_17/subblock/reg[39],d/branch/stream/reg_194[34],yclk,zclk,degraded
+57586,0.0144,0,71964,0.0178,0,-0.0034,c/unit_18/subblock/reg[34],d/branch/stream/reg_101[22],yclk,yclk,improved
+84406,0.012,0,98259,0.012,0,0.0,c/unit_11/subblock/reg[18],d/branch/stream/reg_184[54],yclk,zclk,no change
+65775,0.0118,0,32598,0.0118,0,0.0,c/unit_16/subblock/reg[37],d/branch/stream/reg_141[5],mclk,zclk,no change
+70318,0.0139,0,38838,0.0153,0,-0.0014,c/unit_19/subblock/reg[47],d/branch/stream/reg_101[17],yclk,zclk,improved
+63970,0.0026,0,48907,0.0026,0,0.0,c/unit_17/subblock/reg[19],d/branch/stream/reg_194[14],mclk,yclk,no change
+65704,0.0064,0,51450,0.0064,0,0.0,c/unit_12/subblock/reg[16],d/branch/stream/reg_176[26],mclk,zclk,no change
+78470,0.0039,0,22387,0.0039,0,0.0,c/unit_20/subblock/reg[42],d/branch/stream/reg_193[44],yclk,mclk,no change
+41624,0.0099,0,25431,0.0099,0,0.0,c/unit_18/subblock/reg[11],d/branch/stream/reg_110[35],zclk,mclk,no change
+33331,0.0169,0,30588,0.0235,0,-0.0066,c/unit_12/subblock/reg[49],d/branch/stream/reg_123[41],mclk,zclk,improved
+75939,0.0143,0,75853,0.0084,0,0.0059,c/unit_19/subblock/reg[15],d/branch/stream/reg_178[7],mclk,mclk,degraded
+43389,0.002,0,81627,0.0117,0,-0.0097,c/unit_17/subblock/reg[54],d/branch/stream/reg_190[11],mclk,zclk,improved
+28036,0.0145,0,98433,0.0108,0,0.0037,c/unit_12/subblock/reg[38],d/branch/stream/reg_178[2],mclk,mclk,degraded
+47803,0.0136,0,96720,0.0136,0,0.0,c/unit_17/subblock/reg[28],d/branch/stream/reg_107[44],mclk,zclk,no change
+50009,0.0102,0,72802,0.0008,0,0.0094,c/unit_13/subblock/reg[34],d/branch/stream/reg_109[34],mclk,yclk,degraded
+97163,0.0072,0,84105,0.0083,0,-0.0011,c/unit_20/subblock/reg[51],d/branch/stream/reg_103[2],yclk,mclk,improved
+99749,0.0158,0,72728,0.0086,0,0.0072,c/unit_16/subblock/reg[16],d/branch/stream/reg_110[24],zclk,zclk,degraded
+85182,0.0033,0,53243,0.001,0,0.0023,c/unit_12/subblock/reg[17],d/branch/stream/reg_116[35],yclk,mclk,degraded
+32777,0.0168,0,22856,0.0168,0,0.0,c/unit_18/subblock/reg[13],d/branch/stream/reg_171[48],mclk,zclk,no change
+23131,0.008,0,56364,0.0135,0,-0.0055,c/unit_18/subblock/reg[40],d/branch/stream/reg_156[40],mclk,zclk,improved
+80529,0.0117,0,25951,0.0117,0,0.0,c/unit_20/subblock/reg[3],d/branch/stream/reg_196[7],zclk,zclk,no change
+98183,0.0031,0,37705,-0.0055,0,0.0086,c/unit_14/subblock/reg[4],d/branch/stream/reg_165[49],yclk,zclk,degraded
+32203,0.0076,0,47929,0.0087,0,-0.0011,c/unit_15/subblock/reg[38],d/branch/stream/reg_171[6],mclk,yclk,improved
+33961,0.0086,0,22824,0.0006,0,0.008,c/unit_20/subblock/reg[27],d/branch/stream/reg_128[30],mclk,yclk,degraded
+54699,0.0175,0,85939,0.012,0,0.0055,c/unit_15/subblock/reg[24],d/branch/stream/reg_163[47],yclk,yclk,degraded
+76980,0.0078,0,49744,0.0078,0,0.0,c/unit_12/subblock/reg[0],d/branch/stream/reg_167[42],yclk,mclk,no change
+85514,0.0179,0,26695,0.0212,0,-0.0033,c/unit_11/subblock/reg[28],d/branch/stream/reg_174[33],yclk,yclk,improved
+67191,0.0039,0,72045,0.0066,0,-0.0027,c/unit_13/subblock/reg[24],d/branch/stream/reg_176[7],mclk,yclk,improved
+46966,0.0164,0,56615,0.0164,0,0.0,c/unit_11/subblock/reg[27],d/branch/stream/reg_145[58],zclk,zclk,no change
+48450,0.008,0,46647,0.0019,0,0.0061,c/unit_18/subblock/reg[56],d/branch/stream/reg_141[13],mclk,yclk,degraded
+41341,0.0159,0,51697,0.0088,0,0.0071,c/unit_18/subblock/reg[45],d/branch/stream/reg_140[45],mclk,zclk,degraded
+69483,0.0127,0,77162,0.0152,0,-0.0025,c/unit_19/subblock/reg[43],d/branch/stream/reg_167[39],zclk,yclk,improved
+67097,0.0113,0,45795,0.0113,0,0.0,c/unit_16/subblock/reg[6],d/branch/stream/reg_198[2],zclk,zclk,no change
+32009,0.0018,0,72968,0.0018,0,0.0,c/unit_15/subblock/reg[36],d/branch/stream/reg_197[20],mclk,yclk,no change
+99483,0.0127,0,53551,0.0221,0,-0.0094,c/unit_17/subblock/reg[39],d/branch/stream/reg_178[36],mclk,yclk,improved
+90320,0.0194,0,62790,0.0194,0,0.0,c/unit_13/subblock/reg[37],d/branch/stream/reg_170[56],zclk,zclk,no change
+89376,0.0098,0,70703,0.0188,0,-0.009,c/unit_17/subblock/reg[35],d/branch/stream/reg_108[16],yclk,zclk,improved
+71535,0.0099,0,60266,0.0131,0,-0.0032,c/unit_17/subblock/reg[8],d/branch/stream/reg_127[54],yclk,yclk,improved
+72457,0.0109,0,37223,0.0109,0,0.0,c/unit_18/subblock/reg[22],d/branch/stream/reg_195[54],mclk,yclk,no change
+64633,0.0146,0,64128,0.0076,0,0.007,c/unit_19/subblock/reg[21],d/branch/stream/reg_104[23],zclk,zclk,degraded
+64985,0.0129,0,92563,0.0215,0,-0.0086,c/unit_17/subblock/reg[11],d/branch/stream/reg_116[26],mclk,yclk,improved
+86043,0.0134,0,34382,0.0112,0,0.0022,c/unit_12/subblock/reg[46],d/branch/stream/reg_105[48],zclk,zclk,degraded
+51248,0.0157,0,48924,0.0186,0,-0.0029,c/unit_18/subblock/reg[32],d/branch/stream/reg_133[63],yclk,zclk,improved
+63112,0.0169,0,43265,0.0169,0,0.0,c/unit_15/subblock/reg[48],d/branch/stream/reg_115[25],yclk,yclk,no change
+28006,0.0027,0,99031,0.0027,0,0.0,c/unit_16/subblock/reg[61],d/branch/stream/reg_144[18],yclk,mclk,no change
+27715,0.0061,0,63313,0.0061,0,0.0,c/unit_11/subblock/reg[19],d/branch/stream/reg_137[26],mclk,yclk,no change
+72264,0.0136,0,32831,0.0151,0,-0.0015,c/unit_16/subblock/reg[11],d/branch/stream/reg_154[27],mclk,zclk,improved
+53620,0.0098,0,79487,0.0098,0,0.0,c/unit_11/subblock/reg[13],d/branch/stream/reg_152[47],yclk,mclk,no change
+82095,0.015,0,60212,0.015,0,0.0,c/unit_19/subblock/reg[31],d/branch/stream/reg_142[35],zclk,yclk,no change
+79813,0.0015,0,63343,0.0059,0,-0.0044,c/unit_11/subblock/reg[49],d/branch/stream/reg_102[29],yclk,zclk,improved
+58641,0.0132,0,92120,0.0042,0,0.009,c/unit_20/subblock/reg[1],d/branch/stream/reg_197[29],mclk,mclk,degraded
+47053,0.0113,0,25360,0.0113,0,0.0,c/unit_11/subblock/reg[58],d/branch/stream/reg_154[33],mclk,yclk,no change
+98397,0.0146,0,44891,0.0146,0,0.0,c/unit_14/subblock/reg[5],d/branch/stream/reg_114[36],yclk,zclk,no change
+57491,0.0058,0,35309,-0.0024,0,0.0082,c/unit_11/subblock/reg[37],d/branch/stream/reg_186[22],yclk,yclk,degraded
+51506,0.0152,0,64783,0.0152,0,0.0,c/unit_19/subblock/reg[20],d/branch/stream/reg_199[32],zclk,zclk,no change
+98378,0.0037,0,87131,0.0037,0,0.0,c/unit_14/subblock/reg[34],d/branch/stream/reg_165[16],yclk,zclk,no change
+80175,0.0116,0,83280,0.0116,0,0.0,c/unit_18/subblock/reg[29],d/branch/stream/reg_155[29],zclk,mclk,no change
+25738,0.0043,0,68005,0.0103,0,-0.006,c/unit_12/subblock/reg[21],d/branch/stream/reg_134[39],yclk,yclk,improved
+50405,0.0179,0,78175,0.0179,0,0.0,c/unit_14/subblock/reg[55],d/branch/stream/reg_101[33],mclk,yclk,no change
+83395,0.0172,0,64760,0.0172,0,0.0,c/unit_20/subblock/reg[5],d/branch/stream/reg_127[34],mclk,yclk,no change
+30969,0.0188,0,45004,0.0188,0,0.0,c/unit_18/subblock/reg[22],d/branch/stream/reg_112[42],yclk,yclk,no change
+76830,0.0104,0,80382,0.0201,0,-0.0097,c/unit_16/subblock/reg[10],d/branch/stream/reg_116[55],mclk,mclk,improved
+54995,0.0055,0,88244,0.0055,0,0.0,c/unit_14/subblock/reg[5],d/branch/stream/reg_112[31],yclk,mclk,no change
+55793,0.0028,0,79630,0.0125,0,-0.0097,c/unit_13/subblock/reg[51],d/branch/stream/reg_142[38],mclk,yclk,improved
+65391,0.0146,0,52396,0.0117,0,0.0029,c/unit_20/subblock/reg[36],d/branch/stream/reg_111[34],yclk,zclk,degraded
+54955,0.0021,0,76851,0.0021,0,0.0,c/unit_11/subblock/reg[21],d/branch/stream/reg_125[8],zclk,zclk,no change
+25471,0.011,0,27657,0.0135,0,-0.0025,c/unit_13/subblock/reg[31],d/branch/stream/reg_125[1],zclk,zclk,improved
+86871,0.0073,0,95851,-0.0025,0,0.0098,c/unit_19/subblock/reg[25],d/branch/stream/reg_142[33],yclk,zclk,degraded
+26612,0.0186,0,41793,0.015,0,0.0036,c/unit_12/subblock/reg[57],d/branch/stream/reg_107[30],mclk,zclk,degraded
+90541,0.0012,0,71072,0.0074,0,-0.0062,c/unit_18/subblock/reg[63],d/branch/stream/reg_153[36],yclk,mclk,improved
+76123,0.0021,0,30409,0.0021,0,0.0,c/unit_12/subblock/reg[54],d/branch/stream/reg_110[10],mclk,zclk,no change
+39776,0.0175,0,39302,0.0209,0,-0.0034,c/unit_17/subblock/reg[62],d/branch/stream/reg_154[5],yclk,mclk,improved
+62895,0.0024,0,93901,0.0024,0,0.0,c/unit_11/subblock/reg[14],d/branch/stream/reg_197[25],mclk,mclk,no change
+61142,0.0106,0,96044,0.0125,0,-0.0019,c/unit_15/subblock/reg[3],d/branch/stream/reg_136[51],zclk,zclk,improved
+91169,0.0173,0,57391,0.0173,0,0.0,c/unit_13/subblock/reg[28],d/branch/stream/reg_180[44],yclk,mclk,no change
+37350,0.0076,0,96694,0.0064,0,0.0012,c/unit_13/subblock/reg[39],d/branch/stream/reg_118[16],mclk,zclk,degraded
+20925,0.0141,0,89812,0.0141,0,0.0,c/unit_13/subblock/reg[19],d/branch/stream/reg_143[21],mclk,zclk,no change
+91128,0.0048,0,48474,0.0085,0,-0.0037,c/unit_12/subblock/reg[56],d/branch/stream/reg_129[28],zclk,mclk,improved
+71375,0.0152,0,31402,0.0152,0,0.0,c/unit_20/subblock/reg[3],d/branch/stream/reg_130[17],yclk,zclk,no change
+70455,0.0142,0,83946,0.0157,0,-0.0015,c/unit_11/subblock/reg[0],d/branch/stream/reg_174[19],mclk,zclk,improved
+43342,0.012,0,89138,0.012,0,0.0,c/unit_16/subblock/reg[7],d/branch/stream/reg_103[9],mclk,zclk,no change
+42051,0.0074,0,67568,0.0074,0,0.0,c/unit_16/subblock/reg[11],d/branch/stream/reg_151[44],zclk,zclk,no change
+72250,0.0032,0,75517,-0.0043,0,0.0075,c/unit_18/subblock/reg[47],d/branch/stream/reg_151[57],yclk,mclk,degraded
+80321,0.0038,0,29056,0.0002,0,0.0036,c/unit_13/subblock/reg[29],d/branch/stream/reg_148[18],yclk,mclk,degraded
+25305,0.0064,0,75484,0.0064,0,0.0,c/unit_17/subblock/reg[32],d/branch/stream/reg_148[21],mclk,mclk,no change
+80498,0.0188,0,86490,0.0188,0,0.0,c/unit_11/subblock/reg[22],d/branch/stream/reg_173[45],zclk,mclk,no change
+39815,0.0077,0,53448,0.0164,0,-0.0087,c/unit_17/subblock/reg[9],d/branch/stream/reg_130[43],yclk,yclk,improved
+61201,0.0123,0,53068,0.0169,0,-0.0046,c/unit_13/subblock/reg[27],d/branch/stream/reg_198[45],zclk,zclk,improved
+29739,0.017,0,49278,0.0181,0,-0.0011,c/unit_16/subblock/reg[9],d/branch/stream/reg_167[46],yclk,zclk,improved
+67275,0.0144,0,89641,0.0128,0,0.0016,c/unit_20/subblock/reg[16],d/branch/stream/reg_146[45],yclk,zclk,degraded
+51441,0.0059,0,45047,0.0136,0,-0.0077,c/unit_15/subblock/reg[9],d/branch/stream/reg_194[3],mclk,mclk,improved
+26646,0.0036,0,85650,0.0096,0,-0.006,c/unit_18/subblock/reg[7],d/branch/stream/reg_185[52],yclk,yclk,improved
+21287,0.0074,0,20755,0.0074,0,0.0,c/unit_16/subblock/reg[44],d/branch/stream/reg_102[23],yclk,zclk,no change
+79682,0.0109,0,32524,0.0179,0,-0.007,c/unit_17/subblock/reg[20],d/branch/stream/reg_152[48],yclk,yclk,improved
+44795,0.01,0,98200,0.01,0,0.0,c/unit_15/subblock/reg[63],d/branch/stream/reg_197[8],yclk,yclk,no change
+66217,0.0086,0,59059,0.0061,0,0.0025,c/unit_18/subblock/reg[16],d/branch/stream/reg_140[21],mclk,mclk,degraded
+87963,0.0051,0,99106,0.0051,0,0.0,c/unit_15/subblock/reg[52],d/branch/stream/reg_195[30],yclk,mclk,no change
+55435,0.0076,0,32396,0.0076,0,0.0,c/unit_12/subblock/reg[15],d/branch/stream/reg_157[60],zclk,zclk,no change
+25656,0.0112,0,78570,0.0076,0,0.0036,c/unit_14/subblock/reg[31],d/branch/stream/reg_115[25],yclk,zclk,degraded
+47401,0.0102,0,20484,0.0102,0,0.0,c/unit_11/subblock/reg[50],d/branch/stream/reg_142[9],mclk,yclk,no change
+54300,0.0096,0,97111,0.0096,0,0.0,c/unit_15/subblock/reg[57],d/branch/stream/reg_105[48],mclk,yclk,no change
+56410,0.0174,0,66519,0.0149,0,0.0025,c/unit_19/subblock/reg[24],d/branch/stream/reg_136[22],mclk,zclk,degraded
+42025,0.0097,0,56401,0.0032,0,0.0065,c/unit_12/subblock/reg[45],d/branch/stream/reg_161[37],yclk,yclk,degraded
+69985,0.0039,0,49904,0.0081,0,-0.0042,c/unit_20/subblock/reg[34],d/branch/stream/reg_101[38],mclk,zclk,improved
+81061,0.0075,0,57682,-0.0023,0,0.0098,c/unit_15/subblock/reg[21],d/branch/stream/reg_191[5],yclk,zclk,degraded
+90638,0.0019,0,42891,-0.0048,0,0.0067,c/unit_14/subblock/reg[7],d/branch/stream/reg_194[41],zclk,zclk,degraded
+92231,0.0146,0,95690,0.0115,0,0.0031,c/unit_17/subblock/reg[52],d/branch/stream/reg_155[18],yclk,mclk,degraded
+29485,0.0136,0,21851,0.0219,0,-0.0083,c/unit_13/subblock/reg[5],d/branch/stream/reg_144[12],zclk,mclk,improved
+41870,0.0166,0,74131,0.0166,0,0.0,c/unit_19/subblock/reg[23],d/branch/stream/reg_141[58],mclk,zclk,no change
+99817,0.0083,0,61495,0.0083,0,0.0,c/unit_15/subblock/reg[61],d/branch/stream/reg_145[17],zclk,yclk,no change
+43204,0.0073,0,38354,0.0073,0,0.0,c/unit_20/subblock/reg[11],d/branch/stream/reg_197[26],yclk,zclk,no change
+69529,0.0096,0,73249,0.0096,0,0.0,c/unit_11/subblock/reg[32],d/branch/stream/reg_195[20],zclk,mclk,no change
+32504,0.0132,0,88363,0.0132,0,0.0,c/unit_12/subblock/reg[44],d/branch/stream/reg_115[10],mclk,yclk,no change
+48196,0.0026,0,89847,0.0026,0,0.0,c/unit_12/subblock/reg[51],d/branch/stream/reg_124[0],zclk,zclk,no change
+71069,0.0082,0,98321,0.0082,0,0.0,c/unit_19/subblock/reg[16],d/branch/stream/reg_111[55],yclk,mclk,no change
+50164,0.0097,0,54731,0.0082,0,0.0015,c/unit_14/subblock/reg[46],d/branch/stream/reg_155[13],zclk,mclk,degraded
+75326,0.0078,0,74546,0.0078,0,0.0,c/unit_19/subblock/reg[49],d/branch/stream/reg_184[25],zclk,mclk,no change
+95623,0.0026,0,47588,0.0082,0,-0.0056,c/unit_11/subblock/reg[56],d/branch/stream/reg_109[43],mclk,mclk,improved
+50385,0.0083,0,26472,0.0083,0,0.0,c/unit_11/subblock/reg[60],d/branch/stream/reg_137[47],mclk,zclk,no change
+65202,0.0189,0,31436,0.0189,0,0.0,c/unit_13/subblock/reg[52],d/branch/stream/reg_106[16],mclk,mclk,no change
+82306,0.0104,0,27883,0.0104,0,0.0,c/unit_12/subblock/reg[10],d/branch/stream/reg_123[24],zclk,yclk,no change
+38675,0.0049,0,63400,-0.0018,0,0.0067,c/unit_19/subblock/reg[42],d/branch/stream/reg_189[18],mclk,mclk,degraded
+26907,0.0159,0,29475,0.0159,0,0.0,c/unit_11/subblock/reg[18],d/branch/stream/reg_191[26],zclk,mclk,no change
+45287,0.0102,0,80526,0.0153,0,-0.0051,c/unit_19/subblock/reg[16],d/branch/stream/reg_122[55],zclk,zclk,improved
+29912,0.0092,0,68942,0.0155,0,-0.0063,c/unit_12/subblock/reg[0],d/branch/stream/reg_192[16],yclk,yclk,improved
+97206,0.015,0,41601,0.015,0,0.0,c/unit_18/subblock/reg[7],d/branch/stream/reg_168[31],yclk,yclk,no change
+80149,0.011,0,23963,0.0206,0,-0.0096,c/unit_12/subblock/reg[3],d/branch/stream/reg_130[58],zclk,zclk,improved
+20844,0.0165,0,49313,0.0195,0,-0.003,c/unit_17/subblock/reg[36],d/branch/stream/reg_159[34],zclk,yclk,improved
+44296,0.0057,0,44386,-0.0026,0,0.0083,c/unit_12/subblock/reg[61],d/branch/stream/reg_195[49],zclk,zclk,degraded
+23150,0.0198,0,33724,0.0148,0,0.005,c/unit_12/subblock/reg[7],d/branch/stream/reg_147[27],zclk,zclk,degraded
+78917,0.0074,0,21188,0.0137,0,-0.0063,c/unit_11/subblock/reg[37],d/branch/stream/reg_148[51],zclk,yclk,improved
+88722,0.0105,0,29374,0.0105,0,0.0,c/unit_20/subblock/reg[7],d/branch/stream/reg_190[54],zclk,yclk,no change
+87568,0.0021,0,40420,-0.004,0,0.0061,c/unit_18/subblock/reg[15],d/branch/stream/reg_174[32],yclk,zclk,degraded
+87044,0.011,0,43438,0.0131,0,-0.0021,c/unit_20/subblock/reg[60],d/branch/stream/reg_161[47],yclk,mclk,improved
+37161,0.0108,0,84851,0.0147,0,-0.0039,c/unit_18/subblock/reg[33],d/branch/stream/reg_193[11],zclk,yclk,improved
+92473,0.0066,0,45165,0.0042,0,0.0024,c/unit_18/subblock/reg[2],d/branch/stream/reg_130[59],mclk,yclk,degraded
+97173,0.0043,0,21640,0.0043,0,0.0,c/unit_19/subblock/reg[24],d/branch/stream/reg_139[57],yclk,yclk,no change
+89862,0.0015,0,71304,-0.0075,0,0.009,c/unit_14/subblock/reg[49],d/branch/stream/reg_174[53],zclk,zclk,degraded
+40605,0.0157,0,45220,0.0228,0,-0.0071,c/unit_17/subblock/reg[39],d/branch/stream/reg_111[54],yclk,yclk,improved
+55730,0.0154,0,48356,0.0168,0,-0.0014,c/unit_11/subblock/reg[24],d/branch/stream/reg_146[17],mclk,mclk,improved
+26850,0.0143,0,92865,0.0171,0,-0.0028,c/unit_17/subblock/reg[29],d/branch/stream/reg_129[54],mclk,zclk,improved
+83300,0.02,0,37538,0.0285,0,-0.0085,c/unit_11/subblock/reg[40],d/branch/stream/reg_126[34],zclk,mclk,improved
+27583,0.0011,0,61743,0.0095,0,-0.0084,c/unit_17/subblock/reg[50],d/branch/stream/reg_101[40],yclk,yclk,improved
+25241,0.0097,0,26122,0.0082,0,0.0015,c/unit_13/subblock/reg[19],d/branch/stream/reg_161[5],yclk,mclk,degraded
+71249,0.0065,0,36393,0.0091,0,-0.0026,c/unit_19/subblock/reg[35],d/branch/stream/reg_179[28],mclk,zclk,improved
+41015,0.0081,0,20092,0.0114,0,-0.0033,c/unit_14/subblock/reg[56],d/branch/stream/reg_197[2],yclk,mclk,improved
+26038,0.0143,0,49817,0.0143,0,0.0,c/unit_12/subblock/reg[11],d/branch/stream/reg_190[14],zclk,zclk,no change
+32519,0.0076,0,31390,-0.0004,0,0.008,c/unit_20/subblock/reg[19],d/branch/stream/reg_195[9],mclk,yclk,degraded
+29278,0.0128,0,58760,0.0152,0,-0.0024,c/unit_13/subblock/reg[2],d/branch/stream/reg_107[21],yclk,mclk,improved
+40183,0.0058,0,71051,-0.002,0,0.0078,c/unit_19/subblock/reg[37],d/branch/stream/reg_156[57],yclk,zclk,degraded
+86718,0.0107,0,94582,0.0009,0,0.0098,c/unit_15/subblock/reg[46],d/branch/stream/reg_191[39],mclk,zclk,degraded
+30179,0.0155,0,23177,0.0094,0,0.0061,c/unit_20/subblock/reg[2],d/branch/stream/reg_151[24],mclk,mclk,degraded
+60008,0.0096,0,97113,0.0004,0,0.0092,c/unit_12/subblock/reg[55],d/branch/stream/reg_194[14],yclk,mclk,degraded
+36571,0.0152,0,47374,0.0242,0,-0.009,c/unit_13/subblock/reg[23],d/branch/stream/reg_170[33],zclk,yclk,improved
+84201,0.0179,0,89532,0.0179,0,0.0,c/unit_18/subblock/reg[46],d/branch/stream/reg_185[57],mclk,zclk,no change
+80215,0.0101,0,33094,0.0101,0,0.0,c/unit_13/subblock/reg[37],d/branch/stream/reg_110[37],yclk,zclk,no change
+75914,0.0176,0,58108,0.0176,0,0.0,c/unit_20/subblock/reg[0],d/branch/stream/reg_142[1],yclk,yclk,no change
+67769,0.0149,0,27598,0.0134,0,0.0015,c/unit_18/subblock/reg[32],d/branch/stream/reg_168[43],yclk,zclk,degraded
+76984,0.007,0,81291,0.007,0,0.0,c/unit_16/subblock/reg[1],d/branch/stream/reg_185[37],yclk,zclk,no change
+34542,0.0085,0,78572,0.0165,0,-0.008,c/unit_20/subblock/reg[5],d/branch/stream/reg_170[26],yclk,zclk,improved
+23175,0.0011,0,80149,0.0095,0,-0.0084,c/unit_11/subblock/reg[35],d/branch/stream/reg_157[20],yclk,zclk,improved
+25081,0.0178,0,92812,0.0193,0,-0.0015,c/unit_20/subblock/reg[30],d/branch/stream/reg_134[60],mclk,mclk,improved
+71025,0.0189,0,92995,0.0253,0,-0.0064,c/unit_19/subblock/reg[34],d/branch/stream/reg_103[22],zclk,yclk,improved
+93241,0.012,0,72102,0.0054,0,0.0066,c/unit_20/subblock/reg[15],d/branch/stream/reg_107[41],yclk,mclk,degraded
+33573,0.002,0,84492,0.002,0,0.0,c/unit_19/subblock/reg[13],d/branch/stream/reg_180[54],zclk,yclk,no change
+92184,0.012,0,95154,0.012,0,0.0,c/unit_20/subblock/reg[19],d/branch/stream/reg_154[42],yclk,yclk,no change
+44646,0.0093,0,44113,0.0093,0,0.0,c/unit_18/subblock/reg[17],d/branch/stream/reg_159[32],mclk,zclk,no change
+49336,0.0105,0,35669,0.0197,0,-0.0092,c/unit_16/subblock/reg[0],d/branch/stream/reg_172[62],mclk,mclk,improved
+32213,0.0095,0,91495,0.0095,0,0.0,c/unit_16/subblock/reg[56],d/branch/stream/reg_178[41],mclk,mclk,no change
+84501,0.0087,0,82644,0.0012,0,0.0075,c/unit_12/subblock/reg[35],d/branch/stream/reg_165[9],mclk,mclk,degraded
+68356,0.0075,0,36187,0.0075,0,0.0,c/unit_16/subblock/reg[25],d/branch/stream/reg_132[14],mclk,zclk,no change
+92909,0.0029,0,57082,0.0103,0,-0.0074,c/unit_18/subblock/reg[18],d/branch/stream/reg_129[55],zclk,zclk,improved
+66722,0.0029,0,44272,-0.0018,0,0.0047,c/unit_15/subblock/reg[52],d/branch/stream/reg_109[11],zclk,zclk,degraded
+85073,0.0033,0,20983,0.0033,0,0.0,c/unit_16/subblock/reg[27],d/branch/stream/reg_196[25],yclk,zclk,no change
+59517,0.0134,0,64068,0.0122,0,0.0012,c/unit_12/subblock/reg[30],d/branch/stream/reg_137[39],mclk,mclk,degraded
+97616,0.0161,0,60408,0.0161,0,0.0,c/unit_11/subblock/reg[39],d/branch/stream/reg_134[3],mclk,zclk,no change
+81739,0.0043,0,88658,0.0043,0,0.0,c/unit_14/subblock/reg[2],d/branch/stream/reg_107[6],zclk,mclk,no change
+64725,0.006,0,97045,0.006,0,0.0,c/unit_18/subblock/reg[58],d/branch/stream/reg_187[50],yclk,mclk,no change
+89943,0.0079,0,78302,-0.0012,0,0.0091,c/unit_12/subblock/reg[1],d/branch/stream/reg_120[12],yclk,mclk,degraded
+26064,0.0193,0,27826,0.022,0,-0.0027,c/unit_13/subblock/reg[2],d/branch/stream/reg_116[54],mclk,mclk,improved
+21611,0.0196,0,26937,0.0147,0,0.0049,c/unit_20/subblock/reg[32],d/branch/stream/reg_126[33],zclk,yclk,degraded
+92148,0.0027,0,89897,-0.0024,0,0.0051,c/unit_16/subblock/reg[26],d/branch/stream/reg_134[63],mclk,zclk,degraded
+37924,0.0183,0,40673,0.0142,0,0.0041,c/unit_17/subblock/reg[22],d/branch/stream/reg_103[56],yclk,zclk,degraded
+68353,0.0095,0,90912,0.007,0,0.0025,c/unit_19/subblock/reg[26],d/branch/stream/reg_143[10],mclk,yclk,degraded
+83127,0.0134,0,88197,0.0055,0,0.0079,c/unit_14/subblock/reg[15],d/branch/stream/reg_188[28],yclk,zclk,degraded
+62268,0.0124,0,35103,0.0124,0,0.0,c/unit_11/subblock/reg[9],d/branch/stream/reg_145[28],mclk,mclk,no change
+24626,0.0129,0,47844,0.0055,0,0.0074,c/unit_16/subblock/reg[4],d/branch/stream/reg_172[6],mclk,mclk,degraded
+82635,0.0175,0,60104,0.0114,0,0.0061,c/unit_17/subblock/reg[12],d/branch/stream/reg_115[1],yclk,mclk,degraded
+86826,0.0149,0,54707,0.0073,0,0.0076,c/unit_14/subblock/reg[41],d/branch/stream/reg_170[31],mclk,yclk,degraded
+41391,0.0113,0,86583,0.0061,0,0.0052,c/unit_11/subblock/reg[63],d/branch/stream/reg_106[41],yclk,mclk,degraded
+61330,0.0152,0,62454,0.0136,0,0.0016,c/unit_16/subblock/reg[53],d/branch/stream/reg_194[21],zclk,mclk,degraded
+66588,0.0128,0,96267,0.0128,0,0.0,c/unit_12/subblock/reg[47],d/branch/stream/reg_173[54],mclk,mclk,no change
+26284,0.0158,0,81593,0.0173,0,-0.0015,c/unit_13/subblock/reg[10],d/branch/stream/reg_196[32],yclk,mclk,improved
+33249,0.0145,0,23324,0.0131,0,0.0014,c/unit_12/subblock/reg[34],d/branch/stream/reg_197[27],zclk,yclk,degraded
+99302,0.0108,0,80993,0.0012,0,0.0096,c/unit_15/subblock/reg[58],d/branch/stream/reg_137[19],zclk,mclk,degraded
+91426,0.0113,0,43021,0.0029,0,0.0084,c/unit_11/subblock/reg[46],d/branch/stream/reg_124[9],mclk,yclk,degraded
+71206,0.0129,0,26340,0.0102,0,0.0027,c/unit_14/subblock/reg[8],d/branch/stream/reg_105[56],mclk,mclk,degraded
+61347,0.0031,0,35888,0.0031,0,0.0,c/unit_11/subblock/reg[16],d/branch/stream/reg_131[60],zclk,yclk,no change
+27465,0.0197,0,47235,0.0147,0,0.005,c/unit_20/subblock/reg[2],d/branch/stream/reg_197[15],mclk,mclk,degraded
+44925,0.0065,0,55003,0.0034,0,0.0031,c/unit_11/subblock/reg[31],d/branch/stream/reg_174[44],mclk,yclk,degraded
